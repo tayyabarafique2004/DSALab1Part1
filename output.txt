@@ -1,0 +1,4 @@
+Emaan	67.5
+anees	50
+tayyaba	85.25
+Alaina	68.75
